@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameFramework2D">
+      <UniqueIdentifier>{34c6d3e2-8c3d-4a4d-802a-01929656a111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\manager">
+      <UniqueIdentifier>{3027f7a6-654b-452d-8137-225a42957ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy">
+      <UniqueIdentifier>{a3dbe0b1-3466-4b02-8180-b3c10a4827ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\image">
+      <UniqueIdentifier>{5e1030be-d5dc-4fec-848c-de3207c9c559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\utils">
+      <UniqueIdentifier>{e391e487-bb6d-4941-bbf2-1b956af45fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\progressBar">
+      <UniqueIdentifier>{b540b522-40fe-4ae2-80b3-18a5a71eb34f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\timer">
+      <UniqueIdentifier>{d999593e-cacc-411b-abb5-2d56c0b53db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\txtData">
+      <UniqueIdentifier>{a83c18d4-461d-4487-868b-71d65b457ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\button">
+      <UniqueIdentifier>{8f473a65-3f77-4fd1-83bb-f5f33a519902}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\database">
+      <UniqueIdentifier>{21e0d0be-802e-4209-acd6-386132926224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\animation">
+      <UniqueIdentifier>{760451a3-4dec-4034-8364-6fbcc9340a3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFramework2D\effect">
+      <UniqueIdentifier>{55292de1-b3ca-4df1-afa0-f5faef4ecbff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\user">
+      <UniqueIdentifier>{ef5258df-4db3-409a-89dc-3a8f831b4d3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\Field">
+      <UniqueIdentifier>{d8552cb8-8e45-4978-8d01-0ef0d41f626a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\Map">
+      <UniqueIdentifier>{b427ee3a-6e89-40e8-a504-a30add675ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameStudy\Text">
+      <UniqueIdentifier>{f66e2046-0fe1-48f0-8546-ebbbae6136d5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="1610기 API.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>GameFramework2D</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>GameFramework2D\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>GameFramework2D\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>GameFramework2D\progressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>GameFramework2D\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>GameFramework2D\txtData</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>GameFramework2D\button</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>GameFramework2D\database</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>GameFramework2D\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>GameFramework2D\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="userManager.h">
+      <Filter>gameStudy\user</Filter>
+    </ClInclude>
+    <ClInclude Include="Field.h">
+      <Filter>gameStudy\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="museumS.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="fontManager.h">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="mainMenu.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="opening.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="text.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="openingText.h">
+      <Filter>gameStudy\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="objectText.h">
+      <Filter>gameStudy\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="inventory.h">
+      <Filter>gameStudy\user</Filter>
+    </ClInclude>
+    <ClInclude Include="museum1F_1.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="museum2F_1.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="museum1F_2.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="museum1F_3.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="museum2F_2.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="museum2F_3.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="blue1.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="blue2.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="blue3.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="blue4.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="green1.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="green2.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="green3.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="gameStudy.h">
+      <Filter>gameStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="gameOver.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="ending.h">
+      <Filter>gameStudy\Map</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1610기 API.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameStudy.cpp">
+      <Filter>gameStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>GameFramework2D</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>GameFramework2D\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>GameFramework2D\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>GameFramework2D\progressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>GameFramework2D\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>GameFramework2D\txtData</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>GameFramework2D\button</Filter>
+    </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>GameFramework2D\database</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>GameFramework2D\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>GameFramework2D\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="userManager.cpp">
+      <Filter>gameStudy\user</Filter>
+    </ClCompile>
+    <ClCompile Include="Field.cpp">
+      <Filter>gameStudy\Field</Filter>
+    </ClCompile>
+    <ClCompile Include="museumS.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="fontManager.cpp">
+      <Filter>GameFramework2D\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="mainMenu.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="opening.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="openingText.cpp">
+      <Filter>gameStudy\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="objectText.cpp">
+      <Filter>gameStudy\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="inventory.cpp">
+      <Filter>gameStudy\user</Filter>
+    </ClCompile>
+    <ClCompile Include="museum1F_1.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="museum2F_1.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="museum1F_2.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="museum1F_3.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="museum2F_2.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="museum2F_3.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="blue1.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="blue2.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="blue3.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="blue4.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="green1.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="green2.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="green3.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="ending.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="gameOver.cpp">
+      <Filter>gameStudy\Map</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="1610기 API.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

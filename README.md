@@ -7,8 +7,8 @@ I made it use windows API.<br>
 - Item get, use system<br>
 - Map events<br>
 - Battle system<br>
-- Save, Load system<br>
+- Save, Load system<br><br>
 
-<img src="https://github.com/TeddyUm/ApocalypseGirl/blob/main/1676963429470.jpg" width="400" height="250">
+<img src="https://github.com/TeddyUm/winAPI_IB_Imitation/blob/main/1677012025827.jpg" width="400" height="250">
 <img src="https://github.com/TeddyUm/ApocalypseGirl/blob/main/1676963618533.jpg" width="400" height="250">
 <img src="https://github.com/TeddyUm/ApocalypseGirl/blob/main/1676963590172.jpg" width="400" height="250">

@@ -12,3 +12,5 @@ I made it use windows API.<br>
 <img src="https://github.com/TeddyUm/winAPI_IB_Imitation/blob/main/1677012025827.jpg" width="400" height="250">
 <img src="https://github.com/TeddyUm/winAPI_IB_Imitation/blob/main/1677012289390.jpg" width="400" height="250">
 <img src="https://github.com/TeddyUm/winAPI_IB_Imitation/blob/main/1677012425468.jpg" width="400" height="250">
+
+<a href="https://youtu.be/-TYlfL9eP3A">IB Youtube Link</a>
